@@ -5,7 +5,7 @@
 
 # Installed dependencies
 **/vendor/
-**/node_modules/
+**/node_modules/ُ
 
 # Local databases
 **/*.sqlite
